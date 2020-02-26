@@ -1,3 +1,3 @@
 Name: Wong Cheuk Lam 
 SID: 20411035
-![screenshot](/screenshot_lab1.png)
+![screenshot](/Screenshot_lab1.png)
